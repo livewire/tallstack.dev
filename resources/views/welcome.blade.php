@@ -56,10 +56,10 @@
               </div>
             </div>
             <div class="hidden md:block">
-              <a href="https://tailwindcss.com/" class="font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Tailwind</a>
-              <a href="https://github.com/alpinejs/alpine/" class="ml-10 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine</a>
-              <a href="https://laravel.com/" class="ml-10 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Laravel</a>
-              <a href="https://laravel-livewire.com/" class="ml-10 font-medium text-gray-500 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Livewire</a>
+              <a href="https://tailwindcss.com/" class="font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Tailwind</a>
+              <a href="https://github.com/alpinejs/alpine/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine</a>
+              <a href="https://laravel.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Laravel</a>
+              <a href="https://laravel-livewire.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Livewire</a>
             </div>
             {{-- <div class="hidden md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
               <span class="inline-flex rounded-md shadow">
@@ -108,7 +108,7 @@
               <br class="xl:hidden" />
               <span class="text-indigo-600">TALL stack</span>
             </h2>
-            <p class="leading-7 mt-3 max-w-md mx-auto text-base text-gray-500 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
+            <p class="leading-7 mt-3 max-w-md mx-auto text-base text-gray-700 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
               Tailwind, Alpine, Laravel, and Livewire. A full-stack development stack, built by Laravel community members.
             </p>
             <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
@@ -136,7 +136,7 @@
           <h3 class="mt-2 text-3xl leading-8 font-extrabold tracking-tight text-gray-900 sm:text-4xl sm:leading-10">
             A new way to build rich, reactive web apps.
           </h3>
-          <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-500 lg:mx-auto">
+          <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
             Learn Laravel, style it easily with Tailwind, and write Laravel-like Livewire components and a dash of Alpine, and you've got a full-stack reactive and interactive platform for creation.
           </p>
         </div>
@@ -154,7 +154,7 @@
                 </div>
                 <div class="ml-4">
                   <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://tailwindcss.com/">TailwindCSS</a></h5>
-                  <p class="mt-2 text-base leading-6 text-gray-500">
+                  <p class="mt-2 text-base leading-6 text-gray-700">
                     With Tailwind's utility classes, you're writing custom CSS without the CSS. Build your own customized designs with the ease of Bootstrap and the flexibility of handwritten CSS.
                   </p>
                 </div>
@@ -171,7 +171,7 @@
                 </div>
                 <div class="ml-4">
                   <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://github.com/alpinejs/alpine">AlpineJS</a></h5>
-                  <p class="mt-2 text-base leading-6 text-gray-500">
+                  <p class="mt-2 text-base leading-6 text-gray-700">
                     Alpine is a tiny declarative JavaScript framework that allows you to create simple interactive components on the page. Perfectly paired with Livewire, and by the same creator.
                   </p>
                 </div>
@@ -188,7 +188,7 @@
                 </div>
                 <div class="ml-4">
                   <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://laravel.com/">Laravel</a></h5>
-                  <p class="mt-2 text-base leading-6 text-gray-500">
+                  <p class="mt-2 text-base leading-6 text-gray-700">
                     Robust, mature, powerful, and flexible, with an incredible community, Laravel is one of the leading full-stack web frameworks.
                   </p>
                 </div>
@@ -205,7 +205,7 @@
                 </div>
                 <div class="ml-4">
                   <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://laravel-livewire.com/">Laravel Livewire</a></h5>
-                  <p class="mt-2 text-base leading-6 text-gray-500">
+                  <p class="mt-2 text-base leading-6 text-gray-700">
                     Laravel view components, delivered seamlessly to your users via JavaScript that <em>you don't have to write</em>.
                   </p>
                 </div>
@@ -221,34 +221,34 @@
   <div class="max-w-screen-xl mx-auto py-12 px-4 overflow-hidden sm:px-6 lg:px-8">
     <nav class="-mx-5 -my-2 flex flex-wrap justify-center">
       <div class="px-5 py-2">
-        <a href="https://tailwindcss.com/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+        <a href="https://tailwindcss.com/" class="text-base leading-6 text-gray-700 hover:text-gray-900">
           Tailwind
         </a>
       </div>
       <div class="px-5 py-2">
-        <a href="https://github.com/alpinejs/alpine" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+        <a href="https://github.com/alpinejs/alpine" class="text-base leading-6 text-gray-700 hover:text-gray-900">
           Alpine
         </a>
       </div>
       <div class="px-5 py-2">
-        <a href="https://laravel.com/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+        <a href="https://laravel.com/" class="text-base leading-6 text-gray-700 hover:text-gray-900">
           Laravel
         </a>
       </div>
       <div class="px-5 py-2">
-        <a href="https://laravel-livewire.com/" class="text-base leading-6 text-gray-500 hover:text-gray-900">
+        <a href="https://laravel-livewire.com/" class="text-base leading-6 text-gray-700 hover:text-gray-900">
           Livewire
         </a>
       </div>
     </nav>
     <div class="mt-8 flex justify-center">
-        <a href="https://twitter.com/tightenco" class="ml-6 text-gray-400 hover:text-gray-500">
+        <a href="https://twitter.com/tightenco" class="ml-6 text-gray-600 hover:text-gray-800">
           <span class="sr-only">Twitter</span>
           <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
             <path d="M8.29 20.251c7.547 0 11.675-6.253 11.675-11.675 0-.178 0-.355-.012-.53A8.348 8.348 0 0022 5.92a8.19 8.19 0 01-2.357.646 4.118 4.118 0 001.804-2.27 8.224 8.224 0 01-2.605.996 4.107 4.107 0 00-6.993 3.743 11.65 11.65 0 01-8.457-4.287 4.106 4.106 0 001.27 5.477A4.072 4.072 0 012.8 9.713v.052a4.105 4.105 0 003.292 4.022 4.095 4.095 0 01-1.853.07 4.108 4.108 0 003.834 2.85A8.233 8.233 0 012 18.407a11.616 11.616 0 006.29 1.84"/>
           </svg>
         </a>
-      <a href="https://github.com/tightenco/tallstack" class="ml-6 text-gray-400 hover:text-gray-500">
+      <a href="https://github.com/tightenco/tallstack" class="ml-6 text-gray-600 hover:text-gray-800">
         <span class="sr-only">GitHub</span>
         <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24">
           <path fill-rule="evenodd" d="M12 2C6.477 2 2 6.484 2 12.017c0 4.425 2.865 8.18 6.839 9.504.5.092.682-.217.682-.483 0-.237-.008-.868-.013-1.703-2.782.605-3.369-1.343-3.369-1.343-.454-1.158-1.11-1.466-1.11-1.466-.908-.62.069-.608.069-.608 1.003.07 1.531 1.032 1.531 1.032.892 1.53 2.341 1.088 2.91.832.092-.647.35-1.088.636-1.338-2.22-.253-4.555-1.113-4.555-4.951 0-1.093.39-1.988 1.029-2.688-.103-.253-.446-1.272.098-2.65 0 0 .84-.27 2.75 1.026A9.564 9.564 0 0112 6.844c.85.004 1.705.115 2.504.337 1.909-1.296 2.747-1.027 2.747-1.027.546 1.379.202 2.398.1 2.651.64.7 1.028 1.595 1.028 2.688 0 3.848-2.339 4.695-4.566 4.943.359.309.678.92.678 1.855 0 1.338-.012 2.419-.012 2.747 0 .268.18.58.688.482A10.019 10.019 0 0022 12.017C22 6.484 17.522 2 12 2z" clip-rule="evenodd"/>
@@ -256,8 +256,8 @@
       </a>
     </div>
     <div class="mt-8">
-      <p class="text-center text-base leading-6 text-gray-400">
-        &copy; {{ date('Y') }} <a href="https://tighten.co/" class="underline">Tighten Co.</a> All rights reserved. | <a href="https://github.com/tightenco/tallstack" class="underline">Open source on GitHub</a>
+      <p class="text-center text-base leading-6 text-gray-700">
+        &copy; {{ date('Y') }} <a href="https://tighten.co/" class="underline hover:text-gray-900">Tighten Co.</a> All rights reserved. | <a href="https://github.com/tightenco/tallstack" class="underline hover:text-gray-900">Open source on GitHub</a>
       </p>
     </div>
   </div>
