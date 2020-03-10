@@ -8,7 +8,16 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
 
-    <title>{{ config('app.name', 'Laravel') }}</title>
+    <title>{{ config('app.name', 'TALL Stack') }}</title>
+
+    <meta property="og:title" content="Tailwind, Alpine, Laravel, and Livewire. One Happy Family.">
+    <meta property="og:type" content="website">
+    <meta property="og:url" content="{{ url('') }}">
+    <meta property="og:image" content="{{ url('tallstack-og.png') }}">
+    <meta property="og:description" content="Learn more about the newest stack for Laravel developers. Full stack, all in Laravel-inspired syntax.">
+    <meta property="og:site_name" content="{{ config('app.name', 'TALL Stack') }}">
+
+    <meta name="description" content="Learn more about the newest stack for Laravel developers. Full stack, all in Laravel-inspired syntax." />
 
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
