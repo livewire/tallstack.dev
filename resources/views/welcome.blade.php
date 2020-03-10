@@ -14,6 +14,8 @@
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url('') }}">
     <meta property="og:image" content="{{ url('tallstack-og.png') }}">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
     <meta property="og:description" content="Learn more about the newest stack for Laravel developers. Full stack, all in Laravel-inspired syntax.">
     <meta property="og:site_name" content="{{ config('app.name', 'TALL Stack') }}">
 
