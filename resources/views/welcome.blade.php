@@ -120,7 +120,7 @@
               <span class="text-indigo-600">TALL stack</span>
             </h2>
             <p class="leading-7 mt-3 max-w-md mx-auto text-base text-gray-700 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              Tailwind, Alpine.js, Laravel, and Livewire. A full-stack development stack, built by Laravel community members.
+              Tailwind, Alpine.js, Laravel, and Livewire. A full-stack development solution, built by Laravel community members.
             </p>
             <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div class="rounded-md shadow">
