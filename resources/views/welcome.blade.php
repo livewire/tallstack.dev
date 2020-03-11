@@ -20,7 +20,6 @@
     <meta property="og:site_name" content="{{ config('app.name', 'TALL Stack') }}">
 
     <meta name="twitter:card" content="summary_large_image">
-    <meta name="twitter:card" content="summary">
     <meta name="twitter:creator" content="@stauffermatt">
     <meta name="twitter:title" content="TALL Stack: Tailwind CSS, Alpine.js, Laravel, and Livewire.">
     <meta name="twitter:image" content="{{ url('images/tallstack-twitter.png') }}">
