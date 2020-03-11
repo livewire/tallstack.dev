@@ -10,7 +10,7 @@
 
     <title>{{ config('app.name', 'TALL Stack') }}</title>
 
-    <meta property="og:title" content="Tailwind, Alpine, Laravel, and Livewire. One Happy Family.">
+    <meta property="og:title" content="Tailwind, Alpine.js, Laravel, and Livewire. One Happy Family.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url('') }}">
     <meta property="og:image" content="{{ url('tallstack-og.png') }}">
@@ -68,7 +68,7 @@
             </div>
             <div class="hidden md:block">
               <a href="https://tailwindcss.com/" class="font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Tailwind</a>
-              <a href="https://github.com/alpinejs/alpine/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine</a>
+              <a href="https://github.com/alpinejs/alpine/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine.js</a>
               <a href="https://laravel.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Laravel</a>
               <a href="https://laravel-livewire.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Livewire</a>
             </div>
@@ -99,7 +99,7 @@
               </div>
               <div class="px-2 pt-2 pb-3">
                 <a href="https://tailwindcss.com/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Tailwind</a>
-                <a href="https://github.com/alpinejs/alpine/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Alpine</a>
+                <a href="https://github.com/alpinejs/alpine/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Alpine.js</a>
                 <a href="https://laravel.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Laravel</a>
                 <a href="https://laravel-livewire.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Livewire</a>
               </div>
@@ -120,7 +120,7 @@
               <span class="text-indigo-600">TALL stack</span>
             </h2>
             <p class="leading-7 mt-3 max-w-md mx-auto text-base text-gray-700 sm:text-lg md:mt-5 md:text-xl md:max-w-3xl">
-              Tailwind, Alpine, Laravel, and Livewire. A full-stack development stack, built by Laravel community members.
+              Tailwind, Alpine.js, Laravel, and Livewire. A full-stack development stack, built by Laravel community members.
             </p>
             <div class="mt-5 max-w-md mx-auto sm:flex sm:justify-center md:mt-8">
               <div class="rounded-md shadow">
@@ -148,7 +148,7 @@
             A new way to build rich, reactive web apps.
           </h3>
           <p class="mt-4 max-w-2xl text-xl leading-7 text-gray-700 lg:mx-auto">
-            Learn Laravel, style it easily with Tailwind, and write Laravel-like Livewire components and a dash of Alpine, and you've got a full-stack reactive and interactive platform for creation.
+            Learn Laravel, style it easily with Tailwind, and write Laravel-like Livewire components and a dash of Alpine.js, and you've got a full-stack reactive and interactive platform for creation.
           </p>
         </div>
 
@@ -165,7 +165,7 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://tailwindcss.com/">TailwindCSS</a></h5>
+                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://tailwindcss.com/">Tailwind CSS</a></h5>
                   <p class="mt-2 text-base leading-6 text-gray-700">
                     With Tailwind's utility classes, you're writing custom CSS without the CSS. Build your own customized designs with the ease of Bootstrap and the flexibility of handwritten CSS.
                   </p>
@@ -179,13 +179,13 @@
 {{--                     <svg class="h-6 w-6" stroke="currentColor" fill="none" viewBox="0 0 24 24">
                       <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M3 6l3 1m0 0l-3 9a5.002 5.002 0 006.001 0M6 7l3 9M6 7l6-2m6 2l3-1m-3 1l-3 9a5.002 5.002 0 006.001 0M18 7l3 9m-3-9l-6-2m0-2v2m0 16V5m0 16H9m3 0h3"/>
                     </svg> --}}
-                    <img src="/images/alpine-icon.png" alt="Alpine Icon" class="h-6 w-6">
+                    <img src="/images/alpine-icon.png" alt="Alpine.js Icon" class="h-6 w-6">
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://github.com/alpinejs/alpine">AlpineJS</a></h5>
+                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://github.com/alpinejs/alpine">Alpine.js</a></h5>
                   <p class="mt-2 text-base leading-6 text-gray-700">
-                    Alpine is a tiny declarative JavaScript framework that allows you to create simple interactive components on the page. Perfectly paired with Livewire, and by the same creator.
+                    Alpine.js is a tiny, declarative JavaScript framework that allows you to create simple interactive components on the page. Perfectly paired with Livewire, and by the same creator.
                   </p>
                 </div>
               </div>
@@ -219,7 +219,7 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://laravel-livewire.com/">Laravel Livewire</a></h5>
+                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://laravel-livewire.com/">Livewire</a></h5>
                   <p class="mt-2 text-base leading-6 text-gray-700">
                     Laravel view components, delivered seamlessly to your users via JavaScript that <em>you don't have to write</em>.
                   </p>
@@ -242,7 +242,7 @@
       </div>
       <div class="px-5 py-2">
         <a href="https://github.com/alpinejs/alpine" class="text-base leading-6 text-gray-700 hover:text-gray-900">
-          Alpine
+          Alpine.js
         </a>
       </div>
       <div class="px-5 py-2">
