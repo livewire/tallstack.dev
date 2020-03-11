@@ -10,14 +10,20 @@
 
     <title>{{ config('app.name', 'TALL Stack') }}</title>
 
-    <meta property="og:title" content="Tailwind, Alpine.js, Laravel, and Livewire. One Happy Family.">
+    <meta property="og:title" content="TALL Stack: Tailwind CSS, Alpine.js, Laravel, and Livewire. One Happy Family.">
     <meta property="og:type" content="website">
     <meta property="og:url" content="{{ url('') }}">
-    <meta property="og:image" content="{{ url('tallstack-og.png') }}">
+    <meta property="og:image" content="{{ url('images/tallstack-og.png') }}">
     <meta property="og:image:width" content="1200">
     <meta property="og:image:height" content="630">
     <meta property="og:description" content="Learn more about the newest stack for Laravel developers. Full stack, all in Laravel-inspired syntax.">
     <meta property="og:site_name" content="{{ config('app.name', 'TALL Stack') }}">
+
+    <meta name="twitter:card" content="summary_large_image">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:creator" content="@stauffermatt">
+    <meta name="twitter:title" content="TALL Stack: Tailwind CSS, Alpine.js, Laravel, and Livewire.">
+    <meta name="twitter:image" content="{{ url('images/tallstack-twitter.png') }}">
 
     <meta name="description" content="Learn more about the newest stack for Laravel developers. Full stack, all in Laravel-inspired syntax." />
 
@@ -55,7 +61,7 @@
             <div class="flex items-center flex-1 md:absolute md:inset-y-0 md:left-0">
               <div class="flex items-center justify-between w-full md:w-auto">
                 <a href="#">
-                  <img class="h-8 w-auto sm:h-10" src="/tallstack-logo.png" alt="TALL Stack logo" />
+                  <img class="h-8 w-auto sm:h-10" src="/images/tallstack-logo.png" alt="TALL Stack logo" />
                 </a>
                 <div class="-mr-2 flex items-center md:hidden">
                   <button @click="open = true" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
@@ -87,7 +93,7 @@
             <div class="rounded-lg bg-white shadow-xs overflow-hidden">
               <div class="px-5 pt-4 flex items-center justify-between">
                 <div>
-                  <img class="h-8 w-auto" src="/tallstack-logo.png" alt="TALL Stack logo" />
+                  <img class="h-8 w-auto" src="/images/tallstack-logo.png" alt="TALL Stack logo" />
                 </div>
                 <div class="-mr-2">
                   <button @click="open = false" type="button" class="inline-flex items-center justify-center p-2 rounded-md text-gray-400 hover:text-gray-500 hover:bg-gray-100 focus:outline-none focus:bg-gray-100 focus:text-gray-500 transition duration-150 ease-in-out">
