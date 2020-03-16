@@ -12,6 +12,13 @@
 @tailwind base;
 
 /**
+* Custom css
+*/
+html {
+    scroll-behavior: smooth;
+}
+
+/**
  * This injects any component classes registered by plugins.
  *
  * If using `postcss-import`, use this import instead:
