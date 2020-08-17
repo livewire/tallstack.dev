@@ -30,6 +30,10 @@
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.0.1/dist/alpine.js" defer></script>
+
+    <!-- Fathom - beautiful, simple website analytics -->
+    <script src="https://boom.laravel.io/script.js" site="VGRBYZSB" defer></script>
+    <!-- / Fathom -->
 </head>
 <body class="bg-gray-100 h-screen antialiased leading-none">
     <div class="relative bg-gray-50 overflow-hidden">
@@ -233,7 +237,7 @@
             </li>
           </ul>
         </div>
-        
+
         <div class="mt-8 flex justify-center">
           <div class="rounded-md bg-blue-100 p-4">
             <div class="flex">
@@ -304,22 +308,6 @@
     </div>
   </div>
 </div>
-
-<!-- Fathom - simple website analytics - https://usefathom.com -->
-<script>
-(function(f, a, t, h, o, m){
-a[h]=a[h]||function(){
-(a[h].q=a[h].q||[]).push(arguments)
-};
-o=f.createElement('script'),
-m=f.getElementsByTagName('script')[0];
-o.async=1; o.src=t; o.id='fathom-script';
-m.parentNode.insertBefore(o,m)
-})(document, window, 'https://cdn.usefathom.com/tracker.js', 'fathom');
-fathom('set', 'siteId', 'WKHTKQZN');
-fathom('trackPageview');
-</script>
-<!-- / Fathom -->
 
 </body>
 </html>
