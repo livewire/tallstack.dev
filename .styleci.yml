@@ -1,13 +1,7 @@
 php:
   preset: laravel
-  disabled:
-    - unused_use
-  finder:
-    not-name:
-      - index.php
-      - server.php
-js:
-  finder:
-    not-name:
-      - webpack.mix.js
+  enabled:
+    - heredoc_indentation
+    - trailing_comma_in_multiline_call
 css: true
+js: true
