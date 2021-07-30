@@ -77,7 +77,7 @@
             </div>
             <div class="hidden md:block">
               <a href="https://tailwindcss.com/" class="font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Tailwind</a>
-              <a href="https://github.com/alpinejs/alpine/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine.js</a>
+              <a href="https://alpinejs.dev/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine.js</a>
               <a href="https://laravel.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Laravel</a>
               <a href="https://laravel-livewire.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Livewire</a>
             </div>
@@ -108,7 +108,7 @@
               </div>
               <div class="px-2 pt-2 pb-3">
                 <a href="https://tailwindcss.com/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Tailwind</a>
-                <a href="https://github.com/alpinejs/alpine/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Alpine.js</a>
+                <a href="https://alpinejs.dev/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Alpine.js</a>
                 <a href="https://laravel.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Laravel</a>
                 <a href="https://laravel-livewire.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Livewire</a>
               </div>
@@ -192,7 +192,7 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://github.com/alpinejs/alpine">Alpine.js</a></h5>
+                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://alpinejs.dev/">Alpine.js</a></h5>
                   <p class="mt-2 text-base leading-6 text-gray-700">
                     Alpine.js is a tiny, declarative JavaScript framework that allows you to create simple interactive components on the page. Perfectly paired with Livewire, and by the same creator.
                   </p>
@@ -272,7 +272,7 @@
         </a>
       </div>
       <div class="px-5 py-2">
-        <a href="https://github.com/alpinejs/alpine" class="text-base leading-6 text-gray-700 hover:text-gray-900">
+        <a href="https://alpinejs.dev/" class="text-base leading-6 text-gray-700 hover:text-gray-900">
           Alpine.js
         </a>
       </div>
