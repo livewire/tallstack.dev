@@ -29,6 +29,9 @@
     <!-- Styles -->
     <link href="{{ mix('css/app.css') }}" rel="stylesheet">
 
+    <!-- Favicon -->
+    <link rel="shortcut icon" href="{{ url('favicon.ico') }}" type="image/x-icon">
+    
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.0.1/dist/alpine.js" defer></script>
 
     <!-- Fathom - beautiful, simple website analytics -->
