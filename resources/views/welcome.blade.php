@@ -32,7 +32,6 @@
     <script src="https://cdn.jsdelivr.net/gh/alpinejs/alpine@v2.0.1/dist/alpine.js" defer></script>
 
     <!-- Fathom - beautiful, simple website analytics -->
-    <script src="https://boom.laravel.io/script.js" site="VGRBYZSB" defer></script>
     <script src="https://fancyrat.calebporzio.com/script.js" data-site="AHJSKVEV" defer></script>
     <!-- / Fathom -->
 </head>
