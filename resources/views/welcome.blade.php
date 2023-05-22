@@ -33,7 +33,7 @@
 
     <!-- Fathom - beautiful, simple website analytics -->
     <script src="https://boom.laravel.io/script.js" site="VGRBYZSB" defer></script>
-    <script src="https://fancyrat.calebporzio.com/script.js" data-site="AHJSKVEV" defer></script>
+    <script src="https://cdn.usefathom.com/script.js" data-site="AHJSKVEV" defer></script>
     <!-- / Fathom -->
 </head>
 <body class="bg-gray-100 h-screen antialiased leading-none">
