@@ -80,7 +80,7 @@
               <a href="https://tailwindcss.com/" class="font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Tailwind</a>
               <a href="https://alpinejs.dev/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Alpine.js</a>
               <a href="https://laravel.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Laravel</a>
-              <a href="https://laravel-livewire.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Livewire</a>
+              <a href="https://livewire.laravel.com/" class="ml-10 font-medium text-gray-700 hover:text-gray-900 focus:outline-none focus:text-gray-900 transition duration-150 ease-in-out">Livewire</a>
             </div>
             {{-- <div class="hidden md:absolute md:flex md:items-center md:justify-end md:inset-y-0 md:right-0">
               <span class="inline-flex rounded-md shadow">
@@ -111,7 +111,7 @@
                 <a href="https://tailwindcss.com/" class="block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Tailwind</a>
                 <a href="https://alpinejs.dev/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Alpine.js</a>
                 <a href="https://laravel.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Laravel</a>
-                <a href="https://laravel-livewire.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Livewire</a>
+                <a href="https://livewire.laravel.com/" class="mt-1 block px-3 py-2 rounded-md text-base font-medium text-gray-700 hover:text-gray-900 hover:bg-gray-50 focus:outline-none focus:text-gray-900 focus:bg-gray-50 transition duration-150 ease-in-out">Livewire</a>
               </div>
     {{--           <div>
                 <a href="#" class="block w-full px-5 py-3 text-center font-medium text-green-600 bg-gray-50 hover:bg-gray-100 hover:text-green-700 focus:outline-none focus:bg-gray-100 focus:text-green-700 transition duration-150 ease-in-out">
@@ -229,7 +229,7 @@
                   </div>
                 </div>
                 <div class="ml-4">
-                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://laravel-livewire.com/">Livewire</a></h5>
+                  <h5 class="text-lg leading-6 font-medium text-gray-900"><a href="https://livewire.laravel.com/">Livewire</a></h5>
                   <p class="mt-2 text-base leading-6 text-gray-700">
                     Laravel view components, delivered seamlessly to your users via JavaScript that <em>you don't have to write</em>.
                   </p>
@@ -283,7 +283,7 @@
         </a>
       </div>
       <div class="px-5 py-2">
-        <a href="https://laravel-livewire.com/" class="text-base leading-6 text-gray-700 hover:text-gray-900">
+        <a href="https://livewire.laravel.com/" class="text-base leading-6 text-gray-700 hover:text-gray-900">
           Livewire
         </a>
       </div>
