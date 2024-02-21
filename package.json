@@ -11,7 +11,7 @@
     },
     "devDependencies": {
         "@tailwindcss/custom-forms": "^0.2",
-        "axios": "^0.21",
+        "axios": "^0.28",
         "laravel-mix": "^6.0.6",
         "laravel-mix-purgecss": "^4.1",
         "laravel-mix-tailwind": "^0.1.0",
